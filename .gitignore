@@ -1,0 +1,6 @@
+secrets.json
+node_modules/**
+build
+artifacts
+cache
+node_modules
